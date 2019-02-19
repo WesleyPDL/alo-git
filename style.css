@@ -1,5 +1,9 @@
 html, body {
 	margin: 0;
 	background-color: #333444
+}
 
+img{
+	height: 150px;
+	width: 150px;
 }
